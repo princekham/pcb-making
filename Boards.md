@@ -19,3 +19,12 @@ Total cost = 1158 Bahts = 144750 Kyats ~ 150000 Kyats
 - Heltec Meshtastic LoRa WIFI LoRa 32 V3 Dev-Board SX1262 ESP32 0.96 Inch Blue OLED Display IOT for Arduino WIFI BLE (558 Bahts)
 - it can be used as lora gateway
 - 
+## Artesian Well Pump control
+- two WiFi controller
+- air outlet
+
+## Motion Detector
+
+## Water Level Sensor
+
+##
