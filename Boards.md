@@ -22,9 +22,18 @@ Total cost = 1158 Bahts = 144750 Kyats ~ 150000 Kyats
 ## Artesian Well Pump control
 - two WiFi controller
 - air outlet
+- 12 V Power supply
 
-## Motion Detector
+### Motion Detector (PIR Sensor)
 
-## Water Level Sensor
+### Water Level Sensor
+- Ultrasonic sensor
+- ESP8266
+- Hi-Link power supply
 
-##
+### Monitor
+- TFT monitor
+- ESP8266
+- Hi-Link power supply
+
+###
